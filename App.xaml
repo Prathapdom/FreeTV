@@ -1,0 +1,8 @@
+<Application x:Class="FreeTV.App" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+ <Application.Resources><ResourceDictionary><ResourceDictionary.MergedDictionaries><XamlControlsResources xmlns="using:Microsoft.UI.Xaml.Controls"/></ResourceDictionary.MergedDictionaries>
+ <SolidColorBrush x:Key="SystemAccentColor" Color="#4F8CFF"/>
+ <SolidColorBrush x:Key="OLEDBackgroundBrush" Color="#000000"/>
+ <SolidColorBrush x:Key="OLEDSurfaceBrush" Color="#090909"/>
+ <SolidColorBrush x:Key="OLEDLineBrush" Color="#252525"/>
+ </ResourceDictionary></Application.Resources>
+</Application>
